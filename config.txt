@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Libra Install"
+BeginPrompt="Do you want to install Libra?"
+RunProgram="Libra_Installer.bat"
+;!@InstallEnd@!
